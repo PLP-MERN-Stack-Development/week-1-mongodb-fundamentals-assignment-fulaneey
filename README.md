@@ -40,6 +40,21 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 3. Include a screenshot of your MongoDB database
 4. Update the README.md with your specific setup instructions
 
+# PLP Bookstore MongoDB Project
+
+## Setup Instructions
+
+1. Use `mongosh` or MongoDB Compass to connect.
+2. Run `insert_books.js` to populate the database.
+3. Run `queries.js` in the shell or Compass to test all queries.
+
+## Files
+
+- `insert_books.js` – Script to insert 10 books into `plp_bookstore.books`
+- `queries.js` – MongoDB queries demonstrating CRUD, aggregation, and indexing
+- `README.md` – This file
+
+
 ## Resources
 
 - [MongoDB Documentation](https://docs.mongodb.com/)
